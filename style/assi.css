@@ -1,5 +1,4 @@
-h2{ color: red;}
-h2{background-color: yellow;}
+
 #hello{
 
     text-align: center;
@@ -18,4 +17,28 @@ h2{background-color: yellow;}
 .b{ padding: 5px 160px;
 text-align: center;
 }
-#c{ text-align: right;}
+#c{ text-align: right;
+
+}
+.c{
+    padding: 0px 2px 0px 100px;
+}
+.d{
+display: flex;
+justify-content: space-between;
+padding: 70px 240px;
+
+}
+.secend{
+    display: flex;
+    justify-content:space-between ;
+    padding: 70px 240px;
+}
+.thirdbaner{
+
+    display: flex;
+    justify-content:space-between ;
+    padding: 70px 240px; 
+}
+
+
