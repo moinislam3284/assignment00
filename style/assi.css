@@ -1,0 +1,21 @@
+h2{ color: red;}
+h2{background-color: yellow;}
+#hello{
+
+    text-align: center;
+    background-image: url("Hero-bg.png");
+   
+}
+.zero{
+   color: white;
+   background-color: black;
+
+}
+.mono{
+    padding: 20px 150px;
+}
+.a{text-align: center;}
+.b{ padding: 5px 160px;
+text-align: center;
+}
+#c{ text-align: right;}
